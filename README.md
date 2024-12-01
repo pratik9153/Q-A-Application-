@@ -14,3 +14,8 @@ This repository contains a Question-Answering (QA) Application that allows users
     Streamlit: To create an interactive and responsive web-based dashboard.
     Gemini-Pro: A cutting-edge LLM model for understanding and answering questions.
     Python: The programming language for implementing the application.
+📋 How It Works
+
+    Upload Document: The user uploads a document (PDF, DOCX, or TXT).
+    Ask Questions: Type a query related to the document in the input field.
+    Retrieve Answer: The app uses LlamaIndex and Gemini-Pro to provide accurate and context-aware answers.
